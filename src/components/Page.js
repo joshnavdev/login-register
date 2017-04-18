@@ -14,6 +14,7 @@ const Page = (props) => {
       </Header>
       <Content className="content" >
         <div className="content-children" >
+        HOmeeeeeeeeeeeeee
           { props.children }
         </div>
       </Content>
