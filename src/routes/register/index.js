@@ -5,7 +5,9 @@ import './index.less';
 const Register = () => {
   return (
     <Page>
-      <span>register!!!!!</span>
+      <div className="register-logo">
+        register-logo
+      </div>
     </Page>
   );
 };
